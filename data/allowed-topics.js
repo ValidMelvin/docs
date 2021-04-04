@@ -66,6 +66,7 @@ module.exports = [
   'oauth apps',
   'open source',
   'organizations',
+  
   'pages',
   'permissions',
   'policy',
