@@ -18,7 +18,7 @@ versions:
 1. Sign in to {% data variables.product.product_location %} and {% data variables.product.prodname_desktop %} before you start to clone.
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.open-with-github-desktop %}
-5. Click **Choose...** and, using the Finder window, navigate to a local path where you want to clone the repository.
+2. Click **Choose...** and, using the Finder window, navigate to a local path where you want to clone the repository.
 ![The choose button on the URL tab](/assets/images/help/desktop/clone-choose-button-url-mac.png)
 
   {% note %}
@@ -27,14 +27,14 @@ versions:
 
   {% endnote %}
 
-5. Click **Clone**.
+3. Click **Clone**.
 ![The clone button on the URL tab](/assets/images/help/desktop/clone-button-url-mac.png)
 
 {% endmac %}
 
 {% windows %}
 
-1. Sign in to {% data variables.product.product_location %} and {% data variables.product.prodname_desktop %} before you start to clone.
+4. Sign in to {% data variables.product.product_location %} and {% data variables.product.prodname_desktop %} before you start to clone.
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.open-with-github-desktop %}
 5. Click **Choose...** and, using Windows Explorer, navigate to a local path where you want to clone the repository.
@@ -46,7 +46,7 @@ versions:
 
   {% endnote %}
 
-5. Click **Clone**.
+6. Click **Clone**.
 ![The clone button](/assets/images/help/desktop/clone-button-url-win.png)
 
 {% endwindows %}
