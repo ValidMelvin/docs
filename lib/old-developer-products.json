@@ -4,5 +4,6 @@
   "/marketplace",
   "/v3",
   "/v4",
+  "/v5",
   "/webhooks"
 ]
