@@ -24,7 +24,7 @@ As you're using GitHub Docs, you may find something in an article that you'd lik
 
 #### Open an issue
 
-If you've found a problem, you can open an issue using a [template](https://github.com/github/docs/issues/new/choose).
+If you came across a problem, you can open an issue using a [template](https://github.com/github/docs/issues/new/choose).
 
 #### Solve an issue
 
